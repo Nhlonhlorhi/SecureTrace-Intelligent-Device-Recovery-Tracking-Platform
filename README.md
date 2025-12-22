@@ -1,2 +1,21 @@
-# SecureTrace-Intelligent-Device-Recovery-Tracking-Platform
-SecureTrace is a cross-platform device recovery and tracking platform that helps users locate lost or stolen devices using multi-identifier intelligence, pre-verified ownership, and secure tracking. It correlates IMEI, MAC address, device IDs, and network signals to improve recovery across mobile, desktop, and web platforms.
+# SecureTrace - Intelligent Device Recovery Tracking Platform
+
+## Java Backend Setup
+
+### Technology Stack
+- Java 17+
+- Spring Boot 3.1.5
+- PostgreSQL
+- Spring Security
+- JWT Authentication
+
+### Quick Start
+1. Install Java 17 and Maven
+2. Install PostgreSQL and create database
+3. Run: mvn spring-boot:run
+
+### Git Commands
+- git add .
+- git commit -m "message"
+- git push origin main
+- git pull origin main
